@@ -1,23 +1,47 @@
 [
-  {
+    {
+        "Category": "Algebra",
+        "Prompt": "How do I solve this quadratic equation: x^2 - 4x + 4 = 0?",
+        "Constraints": "I'm having trouble with quadratic equations. Please explain each step in detail, show both factoring and using the quadratic formula, and give a brief summary of when to use each method."
+    },
+    {
+        "Category": "Calculus",
+        "Prompt": "How do I solve this integral: ∫(2x^3 - 3x^2 + x - 5)dx?",
+        "Constraints": "I'm a high school student just starting with integrals. Explain each step clearly and simply, using real-life analogies if possible. Also, show me how to check my work at the end."
+    },
+    {
+        "Category": "Evolution",
+        "Prompt": "Explain how natural selection leads to evolution.",
+        "Constraints": "Avoid overly technical terms. Use clear examples from nature, like the evolution of the peppered moth. Include a simple explanation of how genetic variation and environmental pressures contribute to the process."
+    },
+    {
+        "Category": "Finance",
+        "Prompt": "How do I start investing in stocks?",
+        "Constraints": "I'm 23, just got my first job, and don't have much savings. I want something simple to understand, and I don't wanna spend too much time on it. Also, could you give me some beginner-friendly platforms to start with and some basic tips on what to avoid?"
+    },
+    {
         "Category": "Fitness",
         "Prompt": "Give me a workout routine.",
         "Constraints": "I'm 46M, struggle with joint pain, and I'm trying to lose weight. Include a brief summary of what each workout routine will achieve. Do not include anything that involves jumping, since my joint pain is mostly in the knees."
-},
-  {
-    "Category": "Finance",
-    "Prompt": "How do I start investing in stocks?",
-    "Constraints": "I'm 23, just got my first job, and don't have much savings. I want something simple to understand, and I don't wanna spend too much time on it. Also, could you give me some beginner-friendly platforms to start with and some basic tips on what to avoid?"
-},
-{
-    "Category": "Travel",
-    "Prompt": "What are some cool places to visit in Europe?",
-    "Constraints": "I'm on a tight budget, love historical sites, and prefer places that aren't too crowded with tourists. I also enjoy trying local foods, so recommendations for must-try dishes would be awesome!"
-},
-{
-    "Category": "Mathematics",
-    "Prompt": "How do I solve this integral: ∫(2x^3 - 3x^2 + x - 5)dx?",
-    "Constraints": "I'm a high school student just starting with integrals. Explain each step clearly and simply, using real-life analogies if possible. Also, show me how to check my work at the end."
-},
-
+    },
+    {
+        "Category": "Genetics",
+        "Prompt": "How do I understand Punnett squares for predicting genetic traits?",
+        "Constraints": "Explain with simple examples like eye color. Break down the concept of dominant and recessive genes. Make sure to include a few practice problems and avoid using too much technical jargon."
+    },
+    {
+        "Category": "Investing",
+        "Prompt": "What are the key differences between stocks and bonds?",
+        "Constraints": "I'm considering investing for the first time. Explain in simple terms, including the risks and potential returns of each. Provide examples of when it might be better to choose one over the other based on financial goals."
+    },
+    {
+        "Category": "Laboratory Techniques",
+        "Prompt": "Can you explain the process of performing a polymerase chain reaction (PCR)?",
+        "Constraints": "I've only done basic lab work before. Break down the steps in detail, including preparation and analysis. Highlight key considerations for accuracy and include common troubleshooting tips."
+    },
+    {
+        "Category": "Travel",
+        "Prompt": "What are some cool places to visit in Europe?",
+        "Constraints": "I'm on a tight budget, love historical sites, and prefer places that aren't too crowded with tourists. I also enjoy trying local foods, so recommendations for must-try dishes would be awesome!"
+    }
 ]
