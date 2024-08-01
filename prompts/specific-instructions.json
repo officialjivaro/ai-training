@@ -1,0 +1,23 @@
+[
+  {
+        "Category": "Fitness",
+        "Prompt": "Give me a workout routine.",
+        "Constraints": "I'm 46M, struggle with joint pain, and I'm trying to lose weight. Include a brief summary of what each workout routine will achieve. Do not include anything that involves jumping, since my joint pain is mostly in the knees."
+},
+  {
+    "Category": "Finance",
+    "Prompt": "How do I start investing in stocks?",
+    "Constraints": "I'm 23, just got my first job, and don't have much savings. I want something simple to understand, and I don't wanna spend too much time on it. Also, could you give me some beginner-friendly platforms to start with and some basic tips on what to avoid?"
+},
+{
+    "Category": "Travel",
+    "Prompt": "What are some cool places to visit in Europe?",
+    "Constraints": "I'm on a tight budget, love historical sites, and prefer places that aren't too crowded with tourists. I also enjoy trying local foods, so recommendations for must-try dishes would be awesome!"
+},
+{
+    "Category": "Mathematics",
+    "Prompt": "How do I solve this integral: ∫(2x^3 - 3x^2 + x - 5)dx?",
+    "Constraints": "I'm a high school student just starting with integrals. Explain each step clearly and simply, using real-life analogies if possible. Also, show me how to check my work at the end."
+},
+
+]
