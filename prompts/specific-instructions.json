@@ -5,9 +5,49 @@
         "Constraints": "I'm having trouble with quadratic equations. Please explain each step in detail, show both factoring and using the quadratic formula, and give a brief summary of when to use each method."
     },
     {
+        "Category": "Books",
+        "Prompt": "Can you give me the lowdown on '1984' by George Orwell?",
+        "Constraints": "Keep it super chill and easy to follow. Just hit the main plot points and themes without going too deep. Mention why it's still relevant today. Make it sound like you're chatting with a buddy who hasn't read it yet."
+    },
+    {
         "Category": "Calculus",
         "Prompt": "How do I solve this integral: ∫(2x^3 - 3x^2 + x - 5)dx?",
         "Constraints": "I'm a high school student just starting with integrals. Explain each step clearly and simply, using real-life analogies if possible. Also, show me how to check my work at the end."
+    },
+    {
+        "Category": "Calculus",
+        "Prompt": "Can u explain how to find the derivative of x^2 + 3x?",
+        "Constraints": "I'm kinda struggling with this. Break it down step-by-step like you're tutoring me. Maybe throw in a couple of easy examples too. Keep it simple, and use everyday language, nothing too fancy."
+    },
+    {
+        "Category": "Chemistry",
+        "Prompt": "Can u break down 3 similarities and diffs between covalent and ionic bonds?",
+        "Constraints": "Keep it simple and to the point. Explain in a way that's easy to understand without too much jargon. Use everyday examples if u can. Make it sound like you're explaining it to someone who's just getting into chemistry."
+    },
+    {
+        "Category": "Chemistry",
+        "Prompt": "Can u explain how a buffer solution works?",
+        "Constraints": "I'm not great with chemistry terms, so keep it super simple. Tell me what it does, how it works, and why it's important. Use a basic example, like baking soda in water or something. Talk to me like I'm totally new to this."
+    },
+    {
+        "Category": "Corporate Finance",
+        "Prompt": "Our company's profits are dipping. Can u suggest 3 ways to boost profitability?",
+        "Constraints": "I'm looking for straightforward, practical advice. Talk to me like you're giving tips to a buddy who's stressed about work. Maybe include a couple of real-world examples or quick wins we can try."
+    },
+    {
+        "Category": "Corporate Finance",
+        "Prompt": "Can u explain how Tesla manages its finances?",
+        "Constraints": "Keep it simple and to the point. Talk about their main strategies for handling cash flow, investments, and debt. Make it sound like you're explaining it to a friend who’s curious but not into finance."
+    },
+    {
+        "Category": "Corporate Finance",
+        "Prompt": "Can u break down how Amazon's revenue model works?",
+        "Constraints": "Keep it simple, like you're explaining it to a friend. Talk about their main sources of income and how they keep growing. Avoid too much jargon, just the basics so I can get a clear picture."
+    },
+    {
+        "Category": "Economy",
+        "Prompt": "Can you break down what inflation is and why it sucks?",
+        "Constraints": "Keep it super simple, like you're explainin' to a friend. Talk about what causes it and how it affects everyday stuff like groceries and gas. No need for fancy economic terms, just the basics. Maybe toss in a recent example."
     },
     {
         "Category": "Evolution",
@@ -20,9 +60,34 @@
         "Constraints": "I'm 23, just got my first job, and don't have much savings. I want something simple to understand, and I don't wanna spend too much time on it. Also, could you give me some beginner-friendly platforms to start with and some basic tips on what to avoid?"
     },
     {
+        "Category": "Finance",
+        "Prompt": "I keep blowing my paycheck. Can u give me 3 tips to get better at saving money?",
+        "Constraints": "I'm not great with numbers or budgeting. Make it easy to follow, like you're giving advice to a friend who sucks at saving. Maybe mention a couple of apps or tricks that can help me keep track of my spending."
+    },
+    {
         "Category": "Fitness",
         "Prompt": "Give me a workout routine.",
         "Constraints": "I'm 46M, struggle with joint pain, and I'm trying to lose weight. Include a brief summary of what each workout routine will achieve. Do not include anything that involves jumping, since my joint pain is mostly in the knees."
+    },
+    {
+        "Category": "Food",
+        "Prompt": "How do I make the perfect scrambled eggs?",
+        "Constraints": "I'm a newbie in the kitchen. Break down each step like you're talking to a friend. Include tips on choosing the right ingredients, the best way to cook them, and any common mistakes to avoid. Make it fun and easy to follow!"
+    },
+    {
+        "Category": "Gaming",
+        "Prompt": "What are the best strategies for winning in Fortnite?",
+        "Constraints": "I'm an intermediate player looking to improve. Focus on building techniques, effective weapon choices, and endgame strategies. Include tips on common mistakes to avoid and how to quickly adapt to different situations."
+    },
+    {
+        "Category": "Gaming",
+        "Prompt": "What's the best way to farm XP in Minecraft?",
+        "Constraints": "I'm lookin' for quick and easy methods. Skip the super advanced stuff, just the basics that'll get me leveling up fast. Share a few tricks and maybe a couple common mistakes to dodge. Make it fun and easy to follow!"
+    },
+    {
+        "Category": "Gaming",
+        "Prompt": "How do I beat the Ender Dragon in Minecraft?",
+        "Constraints": "I’m a casual player, so keep it simple. Explain what gear I need, the best strategy to use, and any sneaky tricks. Skip the super technical stuff. Make it fun and easy to follow, like you're givin' tips to a friend."
     },
     {
         "Category": "Genetics",
@@ -30,9 +95,29 @@
         "Constraints": "Explain with simple examples like eye color. Break down the concept of dominant and recessive genes. Make sure to include a few practice problems and avoid using too much technical jargon."
     },
     {
+        "Category": "Genetics",
+        "Prompt": "Hey, can you explain how CRISPR works in like super simple terms?",
+        "Constraints": "I'm not a science geek, so keep it chill and easy to get. Just hit the basics – like what it does, how it works, and why it's a big deal. Throw in a cool example if ya can. Make it sound like you're just chatting with a buddy."
+    },
+    {
+        "Category": "History",
+        "Prompt": "What caused the fall of the Roman Empire?",
+        "Constraints": "Keep it simple and engaging, like you're telling a story. Focus on the main reasons without getting too deep into dates and names. Include a mix of political, economic, and social factors, and maybe toss in an interesting fact or two."
+    },
+    {
         "Category": "Investing",
         "Prompt": "What are the key differences between stocks and bonds?",
         "Constraints": "I'm considering investing for the first time. Explain in simple terms, including the risks and potential returns of each. Provide examples of when it might be better to choose one over the other based on financial goals."
+    },
+    {
+        "Category": "Investing",
+        "Prompt": "I just got a bonus at work. Can u suggest 3 easy ways to start investing it?",
+        "Constraints": "I'm totally new to this. Keep it simple and safe. Explain like you're talking to a friend who knows nothing about investing. Maybe mention a couple of beginner-friendly apps or platforms too."
+    },
+    {
+        "Category": "Japan",
+        "Prompt": "What's the deal with hanami in Japan?",
+        "Constraints": "Keep it simple and fun. Explain what hanami is, when it happens, and why it's a big deal. Maybe throw in a quick tip on the best spots to enjoy it if I ever visit. Make it sound like you're telling a friend who's never heard of it."
     },
     {
         "Category": "Laboratory Techniques",
@@ -40,8 +125,58 @@
         "Constraints": "I've only done basic lab work before. Break down the steps in detail, including preparation and analysis. Highlight key considerations for accuracy and include common troubleshooting tips."
     },
     {
+        "Category": "Media",
+        "Prompt": "What's the TLDR on the impact of fake news in today's media?",
+        "Constraints": "Explain it in a short and simple way. Focus on why it's a problem and how it affects people. Use a couple of real-life examples to make it clear. Keep it casual, like you're explaining it to a friend who's not really into the news."
+    },
+    {
+        "Category": "Music",
+        "Prompt": "How do I play a 12-bar blues on the piano?",
+        "Constraints": "I'm a beginner with some basic piano skills. Explain the chord progression in simple terms, give tips on the left-hand rhythm, and suggest some easy right-hand riffs to get started. Include a couple of famous 12-bar blues songs to practice with."
+    },
+    {
+        "Category": "Photography",
+        "Prompt": "How do I get that blurry background effect in my photos?",
+        "Constraints": "I'm using a basic DSLR camera. Explain the settings I need to adjust, like aperture and focal length. Give me some tips on positioning my subject and the camera. Avoid too much technical jargon; keep it simple and practical."
+    },
+    {
+        "Category": "Physics",
+        "Prompt": "Can you explain how a slinky walks down stairs?",
+        "Constraints": "I'm curious about the physics behind it but not too deep into technical jargon. Break down the basic principles like gravity, tension, and momentum. Use easy-to-understand examples and maybe a bit of humor to keep it fun."
+    },
+    {
+        "Category": "Poetry",
+        "Prompt": "Write a poem about the changing seasons.",
+        "Constraints": "Keep the tone reflective and use vivid imagery. Focus on how each season transitions to the next. Avoid using overly complex language, making it accessible to a wide audience. Aim for about 20-30 lines."
+    },
+    {
+        "Category": "Politics",
+        "Prompt": "Yo, what's the Electoral College and why do people always argue about it?",
+        "Constraints": "Keep it real simple and casual. Explain what it is, how it works, and why it gets people heated. No deep dive into history, just the basics. Maybe throw in a quick example of how it affected a recent election."
+    },
+    {
+        "Category": "Statistics",
+        "Prompt": "Hey, how do I figure out the median in a data set?",
+        "Constraints": "Explain it like I'm 10, haha. No fancy math talk. Just show me the steps with a simple example. Oh, and keep it short enough so I can stick it in my homework without it lookin' like an essay."
+    },
+    {
+        "Category": "Statistics",
+        "Prompt": "What's the deal with standard deviation?",
+        "Constraints": "Give me the basics without the heavy math stuff. Explain what it is and why it's useful with a simple example. Keep it chill, like you're chatting with a friend who just wants to get the gist of it."
+    },
+    {
+        "Category": "Technology",
+        "Prompt": "Compare and contrast virtual reality (VR) and augmented reality (AR).",
+        "Constraints": "Make it easy to understand for someone with no technical background. Highlight key differences and similarities, practical applications of each, and potential future developments. Include examples of popular devices or platforms."
+    },
+    {
         "Category": "Travel",
         "Prompt": "What are some cool places to visit in Europe?",
         "Constraints": "I'm on a tight budget, love historical sites, and prefer places that aren't too crowded with tourists. I also enjoy trying local foods, so recommendations for must-try dishes would be awesome!"
+    },
+    {
+        "Category": "Travel",
+        "Prompt": "Plan a budget-friendly itinerary for a week in Japan.",
+        "Constraints": "I'm looking for a mix of cultural experiences and must-see sights. Focus on affordable accommodations and local transportation options. Include recommendations for inexpensive local food and any free or low-cost activities."
     }
 ]
