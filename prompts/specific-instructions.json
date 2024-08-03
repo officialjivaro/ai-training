@@ -30,6 +30,16 @@
         "Constraints": "I'm not great with chemistry terms, so keep it super simple. Tell me what it does, how it works, and why it's important. Use a basic example, like baking soda in water or something. Talk to me like I'm totally new to this."
     },
     {
+        "Category": "Content Writing",
+        "Prompt": "Can u write a blog post about the benefits of remote work?",
+        "Constraints": "Make it friendly and relatable. Talk about things like work-life balance, saving on commute, and increased productivity. Use simple language and keep it engaging, like you're chatting with a friend."
+    },
+    {
+        "Category": "Content Writing",
+        "Prompt": "What's the best way to structure a product review blog post?",
+        "Constraints": "Explain it step-by-step, like you're teaching a newbie. Cover things like intro, features, pros and cons, and conclusion. Make sure it's easy to follow and practical for someone just starting out with blogging."
+    },
+    {
         "Category": "Corporate Finance",
         "Prompt": "Our company's profits are dipping. Can u suggest 3 ways to boost profitability?",
         "Constraints": "I'm looking for straightforward, practical advice. Talk to me like you're giving tips to a buddy who's stressed about work. Maybe include a couple of real-world examples or quick wins we can try."
@@ -43,6 +53,16 @@
         "Category": "Corporate Finance",
         "Prompt": "Can u break down how Amazon's revenue model works?",
         "Constraints": "Keep it simple, like you're explaining it to a friend. Talk about their main sources of income and how they keep growing. Avoid too much jargon, just the basics so I can get a clear picture."
+    },
+    {
+        "Category": "Corporate History",
+        "Prompt": "What's the story behind Apple's comeback in the early 2000s?",
+        "Constraints": "Give me the highlights, like key decisions and products that turned things around. Keep it casual, like you're telling a friend who doesn't know much about tech. Maybe throw in a fun fact or two."
+    },
+    {
+        "Category": "Creative Writing",
+        "Prompt": "Write a short story about a detective who solves a mystery using an unexpected clue.",
+        "Constraints": "Keep it under 500 words. Make the detective a quirky character with an unusual hobby. Include a twist at the end that ties back to the detective's hobby. Make it engaging and fun to read."
     },
     {
         "Category": "Economy",
@@ -100,9 +120,24 @@
         "Constraints": "I'm not a science geek, so keep it chill and easy to get. Just hit the basics – like what it does, how it works, and why it's a big deal. Throw in a cool example if ya can. Make it sound like you're just chatting with a buddy."
     },
     {
+        "Category": "Genetics",
+        "Prompt": "How does genetic inheritance work in simple terms?",
+        "Constraints": "Explain it like you're talking to a 10-year-old. Use everyday examples, like eye color and hair type. Keep it super simple and avoid scientific jargon. Make it fun and easy to understand."
+    },
+    {
+        "Category": "Genetics",
+        "Prompt": "Can u come up with a cool analogy to explain DNA to someone who knows nada about genetics?",
+        "Constraints": "Make it fun and easy to get. Maybe use something everyday like a recipe book or a computer code. Keep it super simple, like you're chatting with a buddy who hates science."
+    },
+    {
         "Category": "History",
         "Prompt": "What caused the fall of the Roman Empire?",
         "Constraints": "Keep it simple and engaging, like you're telling a story. Focus on the main reasons without getting too deep into dates and names. Include a mix of political, economic, and social factors, and maybe toss in an interesting fact or two."
+    },
+    {
+        "Category": "History",
+        "Prompt": "Tell me about the main events of the French Revolution.",
+        "Constraints": "Keep it short and engaging, like a story. Focus on the key events and figures. Avoid getting too detailed or academic, just the essentials so it's easy to follow."
     },
     {
         "Category": "Investing",
@@ -120,6 +155,31 @@
         "Constraints": "Keep it simple and fun. Explain what hanami is, when it happens, and why it's a big deal. Maybe throw in a quick tip on the best spots to enjoy it if I ever visit. Make it sound like you're telling a friend who's never heard of it."
     },
     {
+        "Category": "Japan",
+        "Prompt": "What's the history behind Japan's cherry blossom festivals?",
+        "Constraints": "Explain it in a fun and engaging way. Talk about the cultural significance and how it became such a big tradition. Keep it casual, like you're telling a friend who loves travel."
+    },
+    {
+        "Category": "Japan",
+        "Prompt": "Tell me about the best street food in Tokyo.",
+        "Constraints": "Highlight some must-try dishes and where to find them. Make it sound super tempting and easy to read. Mention any unique ingredients or cooking methods that make the food special."
+    },
+    {
+        "Category": "Japan",
+        "Prompt": "Can u explain the basics of Japanese etiquette?",
+        "Constraints": "Keep it simple and practical. Focus on things tourists should know, like bowing, removing shoes, and public manners. Make it easy to remember and kinda fun."
+    },
+    {
+        "Category": "Japan",
+        "Prompt": "Write a short guide on visiting Kyoto's temples.",
+        "Constraints": "List a few must-see temples and what makes each one unique. Include tips on the best times to visit and any cool cultural insights. Keep it friendly and helpful, like you're giving advice to a friend."
+    },
+    {
+        "Category": "Japan",
+        "Prompt": "What's the deal with Japan's love for vending machines?",
+        "Constraints": "Explain why they're so popular and some of the unique items you can find. Make it interesting and lighthearted, like you're sharing a fun fact with a buddy."
+    },
+    {
         "Category": "Laboratory Techniques",
         "Prompt": "Can you explain the process of performing a polymerase chain reaction (PCR)?",
         "Constraints": "I've only done basic lab work before. Break down the steps in detail, including preparation and analysis. Highlight key considerations for accuracy and include common troubleshooting tips."
@@ -128,6 +188,11 @@
         "Category": "Media",
         "Prompt": "What's the TLDR on the impact of fake news in today's media?",
         "Constraints": "Explain it in a short and simple way. Focus on why it's a problem and how it affects people. Use a couple of real-life examples to make it clear. Keep it casual, like you're explaining it to a friend who's not really into the news."
+    },
+    {
+        "Category": "Microbiology",
+        "Prompt": "What's the deal with bacteria vs viruses? How r they diff?",
+        "Constraints": "Keep it simple and to the point, like you're explaining to someone who's not into science. Use easy examples and skip the heavy jargon. Just the basics so it's easy to get."
     },
     {
         "Category": "Music",
@@ -155,6 +220,46 @@
         "Constraints": "Keep it real simple and casual. Explain what it is, how it works, and why it gets people heated. No deep dive into history, just the basics. Maybe throw in a quick example of how it affected a recent election."
     },
     {
+        "Category": "Pop Culture",
+        "Prompt": "Who are the top influencers on Instagram right now?",
+        "Constraints": "Keep it casual and up-to-date. Mention a mix of different niches like fashion, fitness, and travel. Explain why they're popular and what kind of content they post. Make it sound like you're chatting with a friend who's looking for new accounts to follow."
+    },
+    {
+        "Category": "Pop Culture",
+        "Prompt": "What's the latest drama in the world of celebrity gossip?",
+        "Constraints": "Give me the juicy details but keep it light and fun. Mention a couple of big names and what they're involved in. Make it sound like you're sharing the latest scoop with a friend."
+    },
+    {
+        "Category": "Pop Culture",
+        "Prompt": "Can u explain why BTS is such a big deal?",
+        "Constraints": "Break it down for someone who isn't into K-pop. Talk about their music, their impact on fans, and why they're so popular worldwide. Keep it simple and engaging."
+    },
+    {
+        "Category": "Pop Culture",
+        "Prompt": "Write a fun recap of the latest season of 'Stranger Things'.",
+        "Constraints": "No spoilers for the ending! Highlight the main events, character developments, and cool moments. Make it exciting and easy to read, like you're telling a friend why they should watch it."
+    },
+    {
+        "Category": "Pop Culture",
+        "Prompt": "Who won the most awards at the last Grammys and why?",
+        "Constraints": "List the top winners and their categories. Explain what made their music stand out this year. Keep it concise and interesting, like you're catching someone up on the big highlights."
+    },
+    {
+        "Category": "Pop Culture",
+        "Prompt": "What are the must-watch shows on Netflix right now?",
+        "Constraints": "Recommend a mix of genres, like drama, comedy, and documentary. Briefly describe each show's plot and why it's worth watching. Keep it informal, like you're giving a friend some binge-watching tips."
+    },
+    {
+        "Category": "Puerto Rico",
+        "Prompt": "What's the deal with Puerto Rico's status? Is it a state or what?",
+        "Constraints": "Explain it in simple terms, like you're talking to someone who knows nothing about it. Cover the basics of its political status, any unique aspects, and why it's different from a state. Keep it casual and easy to follow."
+    },
+    {
+        "Category": "Puerto Rico",
+        "Prompt": "Tell me about the best beaches in Puerto Rico.",
+        "Constraints": "Keep it fun and informal. Highlight a few must-visit spots and what makes them special. Mention any cool activities you can do there. Make it sound like you're giving tips to a friend planning a trip."
+    },
+    {
         "Category": "Statistics",
         "Prompt": "Hey, how do I figure out the median in a data set?",
         "Constraints": "Explain it like I'm 10, haha. No fancy math talk. Just show me the steps with a simple example. Oh, and keep it short enough so I can stick it in my homework without it lookin' like an essay."
@@ -178,5 +283,15 @@
         "Category": "Travel",
         "Prompt": "Plan a budget-friendly itinerary for a week in Japan.",
         "Constraints": "I'm looking for a mix of cultural experiences and must-see sights. Focus on affordable accommodations and local transportation options. Include recommendations for inexpensive local food and any free or low-cost activities."
+    },
+    {
+        "Category": "United States",
+        "Prompt": "Why's everyone always talking about the American Dream? What does it even mean?",
+        "Constraints": "Explain it like you're talking to someone who's never heard of it. Keep it casual and use some real-life examples. Don't get too deep into history, just the main idea and why it's a big deal."
+    },
+    {
+        "Category": "United States",
+        "Prompt": "Can u explain why July 4th is such a big deal in the US?",
+        "Constraints": "Keep it simple and fun. Talk about the history behind it, but don't go overboard with details. Mention some of the traditions and why people celebrate. Make it sound like you're chatting with someone who's new to the country."
     }
 ]
