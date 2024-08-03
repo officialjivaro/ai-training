@@ -5,6 +5,31 @@
         "Constraints": "I'm having trouble with quadratic equations. Please explain each step in detail, show both factoring and using the quadratic formula, and give a brief summary of when to use each method."
     },
     {
+        "Category": "Algebra",
+        "Prompt": "How do I solve for x in the equation 3x + 5 = 20?",
+        "Constraints": "Explain it step-by-step in a super simple way. Pretend you're helping a friend who really struggles with math. No fancy words, just the basics."
+    },
+    {
+        "Category": "Algebra",
+        "Prompt": "Can u write a quick explanation of what quadratic equations are?",
+        "Constraints": "Keep it easy to understand. Use a simple example and explain what makes it different from other equations. Make it sound like you're explaining it to someone who's just starting algebra."
+    },
+    {
+        "Category": "Algebra",
+        "Prompt": "What's the difference between linear and quadratic functions?",
+        "Constraints": "Give a clear and simple comparison. Use everyday language and examples. Make it easy for someone who might not love math to get the idea."
+    },
+    {
+        "Category": "Algebra",
+        "Prompt": "Write a short story where a character uses algebra to solve a problem.",
+        "Constraints": "Make the story fun and relatable. Show how algebra can be useful in real life. Keep the math part simple and easy to follow."
+    },
+    {
+        "Category": "Algebra",
+        "Prompt": "Why do we use letters like x and y in algebra?",
+        "Constraints": "Explain it in a way that's easy to understand. Use simple language and maybe a fun analogy. Make it sound like you're talking to someone who's curious but doesn't know much about math."
+    },
+    {
         "Category": "Books",
         "Prompt": "Can you give me the lowdown on '1984' by George Orwell?",
         "Constraints": "Keep it super chill and easy to follow. Just hit the main plot points and themes without going too deep. Mention why it's still relevant today. Make it sound like you're chatting with a buddy who hasn't read it yet."
@@ -88,6 +113,31 @@
         "Category": "Fitness",
         "Prompt": "Give me a workout routine.",
         "Constraints": "I'm 46M, struggle with joint pain, and I'm trying to lose weight. Include a brief summary of what each workout routine will achieve. Do not include anything that involves jumping, since my joint pain is mostly in the knees."
+    },
+    {
+        "Category": "Fitness",
+        "Prompt": "What are some good exercises for building core strength at home?",
+        "Constraints": "I don't have any equipment, so stick to bodyweight exercises. Explain each exercise clearly and include how many reps/sets to do. Mention how often I should do these exercises each week."
+    },
+    {
+        "Category": "Fitness",
+        "Prompt": "How can I improve my running stamina?",
+        "Constraints": "I'm a beginner and currently run 1-2 miles. Suggest a weekly running plan for the next month to gradually increase my distance. Include tips on proper breathing and form."
+    },
+    {
+        "Category": "Fitness",
+        "Prompt": "Create a quick 15-minute HIIT workout.",
+        "Constraints": "Include a mix of cardio and strength exercises. No equipment needed. Specify the duration for each exercise and rest period. Make sure the workout is suitable for someone with a moderate fitness level."
+    },
+    {
+        "Category": "Fitness",
+        "Prompt": "What's the best way to warm up before a workout?",
+        "Constraints": "Give me a routine that takes about 10 minutes. Include dynamic stretches and light cardio. Explain why each part of the warm-up is important."
+    },
+    {
+        "Category": "Fitness",
+        "Prompt": "How do I stay motivated to work out regularly?",
+        "Constraints": "Share 5 practical tips that go beyond 'just do it.' Include ways to track progress, make workouts more enjoyable, and how to set achievable goals. Aim for tips that are realistic for someone who finds it hard to stick to a routine."
     },
     {
         "Category": "Food",
